@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shigersky
 - 👀 I’m interested in video games!!!
-- 🌱 I’m currently learning C++ and Unreal.
-- 📫 How to reach me: bartnickimateuszgame@gmail.com
+- 🌱 I’m currently learning C++
 
 <!---
 Shigersky/Shigersky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
